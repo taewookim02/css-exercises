@@ -4,7 +4,7 @@ html {
 
 .paragraph:nth-child(odd) {
   background-color: #ff7676;
-  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second-element {
