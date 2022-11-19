@@ -1,0 +1,23 @@
+html {
+  font-family: sans-serif;
+}
+
+.paragraph:nth-child(odd) {
+  background-color: #ff7676;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second-element {
+  color: #1414ff;
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#fourth-element {
+  background-color: #adff2f;
+  font-size: 24px;
+  font-weight: 700;
+}
